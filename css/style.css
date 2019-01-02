@@ -56,7 +56,7 @@
 .right-che .xl-list{
 	width: 318px;
 	height: 100px;
-	background: white;
+	background: whi
 	font-size: 12px;
 	position: absolute;
 	right:0px;
@@ -1890,3 +1890,182 @@ main{
 	margin: left;
 }
 /* 内容结束 */
+/* 服务开始 */
+.fuwu{
+	width: 1226px;
+	height: 275px;
+	margin: 0 auto;
+}
+.fuwu-top{
+	width: 100%;
+	height: 80px;
+	border-bottom: 1px solid black;
+}
+.fuwu-top .fuwu1{
+	width: 244.4px;
+	height: 79px;
+	line-height: 79px;
+	font-size: 16px;
+	text-align: center;
+	float: left;
+	position: relative;
+
+}
+.fuwu-top .fuwu1:hover{
+	color: orange;
+}
+.fuwu-top>ul>li i{
+	height: 80px;
+	margin-left: 28px;
+	position: absolute;
+	top: 0px;
+	right: 0;
+}
+.fuwu-top>ul>li .line{
+	width: 1226px;
+	/* border: 1px solid rgba(0,0,0,0.2); */
+	position: absolute;
+	top: 80px;
+	left: 0;
+}
+.fuwu-bottom{
+	width: 100%;
+	height: 194px;
+	margin-bottom: 100px;
+}
+.fuwu-bottom-zuo{
+	width: 976px;
+	height: 100%;
+	float: left;
+	position: relative;
+}
+.fuwu-bottom-zuo .top{
+	width: 976px;
+	height: 50px;
+}
+.fuwu-bottom-zuo .top .top-text{
+	width: 162.666px;
+	height:100% ;
+	line-height: 70px;
+	text-align: center;
+	float: left;
+	font-size: 14px;
+}
+
+.fuwu-bottom-zuo .bottom{
+	width: 100%;
+	height: 124px;
+}
+.fuwu-bottom-zuo .bottom .bottom-text1{
+	width: 162.666px;
+	height:25px ;
+	line-height: 70px;
+	text-align: center;
+	float: left;
+	font-size: 12px;
+
+}
+.fuwu-bottom-zuo .bottom i{
+	width:1px ;
+	height: 100px;
+	background: #000000;
+	position: absolute;
+	top: 40px;
+	right: 0;
+}
+.fuwu-bottom-you{
+	width: 250px;
+	height: 100%;
+	float: right;
+}
+.fuwu-bottom-you .text{
+	font-size: 22px;
+	color: #ff6700;
+	text-align: center;
+	margin-top: 18px;
+}
+.fuwu-bottom-you .text1{
+	font-size: 12px;
+	color: #616161;
+	text-align: center;
+	margin-top: 3px;
+}
+.fuwu-bottom-you .text2{
+	font-size: 12px;
+	color: #616161;
+	text-align: center;
+	margin-top: 3px;
+}
+.fuwu-bottom-you .text3 .hz-text{
+	width: 120px;
+	height: 30px;
+	border:1px solid #ff6700;
+	background: #fff;
+	margin-left: 65px;
+	margin-top: 20px;
+	color:#ff6700;
+	text-align: center;
+	line-height: 30px;
+	font-size: 12px;
+}
+/* 服务结束 */
+.dibubox{
+	width: 1226px;
+	height:120px;
+	margin: 0 auto;
+	background: #fafafa;
+	overflow: hidden;
+}
+.dibubox .logo-tu{
+	width: 56px;
+	height: 56px;
+	background:coral;
+	margin-top: 31px;
+	float: left;
+}
+.dibubox .text{
+	width: 1155px;
+	height: 30px;
+	margin-left: 10px;
+	margin-top: 20px;
+	float: left;
+}
+.dibubox .left-text:hover{
+	color:orange;
+}
+.dibubox .xia{
+	width: 1155px;
+	height: 60px;
+	margin-left: 65px;
+	margin-top: 50px;
+}
+.dibubox .xia div{
+	font-size: 12px;
+}
+.dibubox .wenzi2:hover{
+	color:orange;
+}
+.dibubox .wenzi3:hover{
+	color:orange;
+}
+.dibubox .wenzi4:hover{
+	color:orange;
+}
+.dibubox .wenzi1:hover{
+	color:orange;
+}
+.BJ{
+	width: 1226px;
+	height: 100px;
+	margin: 0 auto;
+}
+.BJ img{
+	float: right;
+}
+.BJ .hei{
+	font-size: 30px;
+	line-height: 100px;
+	text-align: center;
+	color: #757575;
+}
+
